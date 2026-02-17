@@ -15,7 +15,7 @@ sudo reboot now
 ```
 
 
-### 2. Screenshot recomended tool
+### 2. Recomended screenshot tool
 * xclip (Snipping Tool that saves images on clipboard)
 ```bash
 sudo apt install xclip flameshot
@@ -51,7 +51,7 @@ cd ~/OSCP-Report-Template
 
 ![](https://i.imgur.com/LfgrzNp.png)
 > [!TIP]
-> For build the report easily, use the terminal windows inside VSCode.  
+> For build the report easily, use the terminal window inside VSCode.  
 
 
 ## Build report  
