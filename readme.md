@@ -181,5 +181,5 @@ titlepage-color          | titlepage-text-color | titlepage-rule-color
 
 
 ## Credits
-- Forked and modified from [https://github.com/blu3drag0nsec/report-template](https://github.com/blu3drag0nsec/report-template)
+- Cloned and modified from [https://github.com/blu3drag0nsec/report-template](https://github.com/blu3drag0nsec/report-template)
 - Inspired in the work of [https://github.com/noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
