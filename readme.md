@@ -22,7 +22,7 @@ sudo apt install xclip flameshot
 ```
 > [!IMPORTANT]
 > After intall, add keyboard shortcut (keyboard > Application Shortcuts > +Add)
->> Shortcut: Ctrl + S  
+>> Shortcut: Alt + S  
 >> Command: flameshot gui
 
 
