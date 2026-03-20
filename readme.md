@@ -61,14 +61,14 @@ _After editing, and to verifying the report's build, execute the commands below 
 ```bash
 ./build.sh
 ```
+
 * Enter the container that has all the LaTeX dependencies
 ```bash
-
 ./run.sh
 ```
+
 * Generate pdf with
 ```bash
-
 ./build_pdf.sh
 ```
 
